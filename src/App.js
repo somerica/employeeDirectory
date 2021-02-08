@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Employee from './components/Employee';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 
